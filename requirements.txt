@@ -1,0 +1,4 @@
+torch==2.13.0
+matplotlib
+pandas
+Python 3.12
