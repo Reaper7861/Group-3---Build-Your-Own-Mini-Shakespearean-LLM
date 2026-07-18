@@ -1,3 +1,5 @@
+"""Computes validation cross-entropy loss and byte-level perplexity."""
+
 from __future__ import annotations
 
 import argparse

@@ -1,3 +1,5 @@
+"""Loads a checkpoint and generates fixed-length byte-token completions."""
+
 from __future__ import annotations
 
 import argparse

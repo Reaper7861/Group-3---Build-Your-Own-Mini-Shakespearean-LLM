@@ -1,3 +1,5 @@
+"""Implements the vectorized PyTorch byte-level GPT transformer."""
+
 from __future__ import annotations
 
 import math

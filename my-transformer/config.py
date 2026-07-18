@@ -1,3 +1,5 @@
+"""Defines the small Model A and scaled Model B hyperparameter configs."""
+
 from __future__ import annotations
 
 from dataclasses import asdict, dataclass

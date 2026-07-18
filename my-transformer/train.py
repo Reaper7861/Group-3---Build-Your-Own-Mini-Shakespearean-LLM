@@ -1,3 +1,5 @@
+"""Trains Model A or Model B, logs losses, and saves checkpoints."""
+
 from __future__ import annotations
 
 import argparse

@@ -1,4 +1,4 @@
 torch==2.13.0
 matplotlib
 pandas
-Python 3.12
+# Tested with Python 3.12
