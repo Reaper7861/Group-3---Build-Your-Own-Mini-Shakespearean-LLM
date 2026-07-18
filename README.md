@@ -12,6 +12,8 @@ This project reimplements Karpathy’s scalar microGPT blueprint as a vectorized
 
 Tested with Python 3.12 and PyTorch 2.13.0 CPU.
 
+**Note:** Checkpoints were used to save the trained Model A and B weights so evaluation, generation, and comparison could be reproduced without retraining each model every time.
+
 Install dependencies:
 
 ```powershell
