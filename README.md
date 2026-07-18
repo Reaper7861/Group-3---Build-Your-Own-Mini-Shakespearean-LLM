@@ -45,8 +45,8 @@ The fixed-length local decoding outputs are saved in `evaluation/outputs/`. Each
 
 | Model | Final Val Loss | Byte-Level Perplexity |
 |---|---:|---:|
-| A | 2.0381 | 7.6761 |
-| B | 1.8026 | 6.0652 |
+| A | 2.0399 | 7.6899 |
+| B | 1.7955 | 6.0227 |
 
 Note: byte-level perplexity is only meaningful for comparing Model A vs Model B in this project.
 
